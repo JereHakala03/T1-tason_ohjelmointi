@@ -1,0 +1,10 @@
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.exe.config
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.exe
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\bin\Debug\Harjoitus2.pdb
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.csproj.AssemblyReference.cache
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.Form1.resources
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.Properties.Resources.resources
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.csproj.GenerateResource.cache
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.exe
+C:\Users\katja\source\repos\Harjoitus2\Harjoitus2\obj\Debug\Harjoitus2.pdb
