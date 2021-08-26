@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\bin\Debug\Ianlaskeminen.exe.config
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\bin\Debug\Ianlaskeminen.exe
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\bin\Debug\Ianlaskeminen.pdb
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.Form1.resources
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.exe
+C:\Users\jere.hakala\source\repos\Ianlaskeminen\Ianlaskeminen\obj\Debug\Ianlaskeminen.pdb
