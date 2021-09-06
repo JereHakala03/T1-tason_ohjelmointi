@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\bin\Debug\NumeroidenJarjestys.exe.config
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\bin\Debug\NumeroidenJarjestys.exe
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\bin\Debug\NumeroidenJarjestys.pdb
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.Lukujenjarjestys.resources
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.exe
+C:\Users\jere.hakala\source\repos\NumeroidenJarjestys\NumeroidenJarjestys\obj\Debug\NumeroidenJarjestys.pdb
