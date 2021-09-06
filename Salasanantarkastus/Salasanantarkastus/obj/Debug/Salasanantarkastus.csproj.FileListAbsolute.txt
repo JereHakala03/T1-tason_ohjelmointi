@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\bin\Debug\Salasanantarkastus.exe.config
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\bin\Debug\Salasanantarkastus.exe
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\bin\Debug\Salasanantarkastus.pdb
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.SalasanaForm.resources
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.exe
+C:\Users\jere.hakala\source\repos\Salasanantarkastus\Salasanantarkastus\obj\Debug\Salasanantarkastus.pdb
