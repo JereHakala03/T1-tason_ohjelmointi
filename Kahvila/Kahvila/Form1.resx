@@ -117,4 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label11.Text" xml:space="preserve">
+    <value>- jim,da-capo,pätkis,ahaa 0,70€
+- suffeli                                  1,00€
+- kismet                                 1,50€
+- susu,fazerina,fami,geisha 0,70€
+- pienet karkkipussit             2,50€
+- isot karkkipussit                  4,00€</value>
+  </data>
 </root>
