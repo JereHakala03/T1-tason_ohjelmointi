@@ -1,0 +1,10 @@
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe.config
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.pdb
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.AssemblyReference.cache
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.SalasanaForm.resources
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.Properties.Resources.resources
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.exe
+C:\Users\katja\Desktop\T1-tason_ohjelmointi-master\T1-tason_ohjelmointi-master\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.pdb
