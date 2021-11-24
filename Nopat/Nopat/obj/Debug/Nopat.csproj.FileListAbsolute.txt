@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\bin\Debug\Nopat.exe.config
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\bin\Debug\Nopat.exe
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\bin\Debug\Nopat.pdb
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.NopanHeitto.resources
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.exe
+C:\Users\jere.hakala\source\repos\Nopat\Nopat\obj\Debug\Nopat.pdb
