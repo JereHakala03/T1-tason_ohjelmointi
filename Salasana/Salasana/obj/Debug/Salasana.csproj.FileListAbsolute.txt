@@ -1,0 +1,10 @@
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\bin\Debug\Salasana.exe.config
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\bin\Debug\Salasana.exe
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\bin\Debug\Salasana.pdb
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.csprojAssemblyReference.cache
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.SalasanaFrom.resources
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.Properties.Resources.resources
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.csproj.GenerateResource.cache
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.csproj.CoreCompileInputs.cache
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.exe
+C:\Users\jere.hakala\source\repos\Salasana\Salasana\obj\Debug\Salasana.pdb

@@ -25,6 +25,7 @@ namespace Nopat
         private void HeitaBT_Click(object sender, EventArgs e)
         {
             piirraNoppa(noppa01PB);
+            Task.Delay(500);
             piirraNoppa(noppa02PB);
         }
 

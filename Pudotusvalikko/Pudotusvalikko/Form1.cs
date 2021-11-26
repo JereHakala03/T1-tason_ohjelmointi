@@ -29,7 +29,7 @@ namespace Pudotusvalikko
             puhelinLB.Text = oppilaitos.Rows[oppilaitosCB.SelectedIndex]["OPuhelin"].ToString();
             yhteys = vastuuHenkilot.Select("OID =" + viite).CopyToDataTable();
             VastuuHenkiloCB.DataSource = yhteys;
-            VastuuHenkiloCB.DisplayMember = "ONimi";
+            VastuuHenkiloCB.DisplayMember = "VNimi";
         }
 
         private void avainhenkilot_Load(object sender, EventArgs e)
@@ -50,8 +50,8 @@ namespace Pudotusvalikko
 
             oppilaitos.Rows.Add(1, "StadinAO", "Hattulantie 2", "00550", "Helsinki", "09 310 8600");
             oppilaitos.Rows.Add(2, "Omnia", "Armas Launiksen katu 9", "02650", "Espoo", "046 877 1371");
-            oppilaitos.Rows.Add(3, "Varia", "R�lssitie 13", "01530", "Vantaa", "040 182 4668");
-            oppilaitos.Rows.Add(4, "Keuda", "Sibeliuksenv�yl� 55 A", "04400", "J�rvenp��", "09 27 381");
+            oppilaitos.Rows.Add(3, "Varia", "Rölssitie 13", "01530", "Vantaa", "040 182 4668");
+            oppilaitos.Rows.Add(4, "Keuda", "Sibeliuksenväylä 55 A", "04400", "Järvenpää", "09 27 381");
 
         }
              
