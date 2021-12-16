@@ -68,15 +68,15 @@ namespace CRUD
             string puhelin = PuhTB.Text;
             string email = EmailTB.Text;
             int oNro = Int32.Parse(ONroTB.Text);
-            int oid = Int32.Parse(IdTB.Text);
+            int Oid = Int32.Parse(IdTB.Text);
 
-            if (oid.Equals("") || enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || oNro.Equals(""))
+            if (Oid.Equals("") || enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || oNro.Equals(""))
             {
                 MessageBox.Show("VIRHE - Vaaditut kentät - ID, Etu- ja sukunimi, puhelin, sähköposti ja opiskelijanumero", "Tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                Boolean lisaaAsiakas = opiskelija.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.muokkaaOpiskelijaa(Oid, enimi, snimi, puhelin, email, oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Opiskelija päivitetty onnistuneesti", "opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
